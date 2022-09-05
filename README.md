@@ -14,9 +14,12 @@
 
 
 <div align="center">
-  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/>
-
+</div>
+<div align="center">
+  
 ![Codewars](https://github.r2v.ch/codewars?user=YozieB&stroke=%23BB432C)
 
 </div>
+
+
