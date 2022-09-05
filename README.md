@@ -34,7 +34,8 @@ src="images/hi.gif" height="32" /></h1>
 
 ### <code>⚡ Stats</code>
 <div width="100%" align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/>
+<a> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/></a>
+ 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yozieb&show_icons=true&theme=radical)
  
