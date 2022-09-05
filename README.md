@@ -1,6 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" target="_blank">Alex</a> <img
+<h1 align="center" style="border: none;">Hi there, I'm <a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" target="_blank">Alex</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<h3 align="center">Here are some words about me</h3>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" title="LinkedIn Profile"><img width="22" src=""> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
+## ✏️ About me
 
 - 🔭 I’m currently working on **my portfolio webpage**
 
