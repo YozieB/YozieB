@@ -9,7 +9,7 @@ src="images/hi.gif" height="32" /></h1>
   <code><a href="https://www.instagram.com/coldy_af" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
-## ✏️ About me
+### ✏️ About me
 
 - 🔭 I’m currently working on **my portfolio webpage**
 
@@ -19,23 +19,27 @@ src="images/hi.gif" height="32" /></h1>
 
 - 📫 my Telegram [https://t.me/yonda1me](https://t.me/yonda1me)
 
-## 🔥 Languages
+### 🔥 Languages
 
 <p align="left">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/>
-</div>
-<div align="center">
-  
+
+### ⚡ Stats
+<table><tr>
+<td style="border: none;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/></td>
+<td style="border: none !important;"><img align="right" src="https://github.r2v.ch/codewars?user=YozieB&stroke=%23BB432C" /></td>
+</tr></table
+
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=YozieB&stroke=%23BB432C)
 
-</div>
+
