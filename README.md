@@ -36,8 +36,7 @@ src="images/hi.gif" height="32" /></h1>
 <div width="100%" align="center">
 <a> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yozieb&theme=tokyonight" alt="mystreak"/></a>
  
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yozieb&show_icons=true&theme=radical)
+<a align="left">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yozieb&show_icons=true&theme=radical) </a>
  
   ![Codewars](https://github.r2v.ch/codewars?user=YozieB&stroke=%23BB432C)
   
