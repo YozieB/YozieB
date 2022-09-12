@@ -11,9 +11,9 @@ src="images/hi.gif" height="32" /></h1>
 
 ## ✏️ About me
 
-- 🔭 I’m currently working on **my portfolio webpage**
+- 🔭 I’m working on **my portfolio webpage**
 
-- 🌱 I’m currently learning **React/Rest API/GraphQL at Yandex.Practicum school**
+- 🌱 I’m learning **React/Rest API/GraphQL at Yandex.Practicum school**
 
 - 🤝 I’m ready to collaborate in **JS/React** projects
 
