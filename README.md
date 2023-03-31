@@ -2,24 +2,23 @@
 src="images/hi.gif" height="32" /></h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="mailto:mrfreeze987@gmail.com" title="Email"><img width="22" src="images/mail.svg"> Email</a></code>
   <code><a href="https://t.me/yonda1me" title="Telegram link"><img width="22" src="images/tg.svg"> Telegram</a></code>
   <code><a href="https://www.instagram.com/coldy_af" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
-### <code>✏️ About me</code>
+### <code>✏️ Обо мне</code>
 
-- 🔭 I’m working on **my portfolio webpage**
+- 🤝 Разрабатываю уютный фронтенд на React в Weetalk
 
-- 🌱 I’m learning **React/Rest API/GraphQL at Yandex.Practicum school**
+- 🔭 Создаю сайты на чистом JS в GUSAROV GROUP
 
-- 🤝 I’m ready to collaborate in **JS/React** projects
+- 🌱 Изучаю Next.js
 
-- 📫 my Telegram [https://t.me/yonda1me](https://t.me/yonda1me)
+- 📫 Связь со мной: [https://t.me/yonda1me](https://t.me/yonda1me)
 
-### <code>🔥 Languages</code>
+### <code>🔥 Технологии</code>
 
 <p align="left">
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -32,7 +31,7 @@ src="images/hi.gif" height="32" /></h1>
 <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
-### <code>⚡ Stats</code>
+### <code>⚡ Статистика</code>
 
 <div width="100%" align="center">
 
