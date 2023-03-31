@@ -1,5 +1,4 @@
-<h1 align="center" style="border: none;">Добро пожаловать на мой<a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" target="_blank">  <code>GitHub</code></a> <img
-src="images/hi.gif" height="32" /></h1>
+<h1 align="center" style="border: none;"><code>Добро пожаловать</code><img src="images/hi.gif" height="32" /></h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
