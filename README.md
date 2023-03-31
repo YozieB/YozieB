@@ -10,9 +10,9 @@ src="images/hi.gif" height="32" /></h1>
 
 ### <code>✏️ Обо мне</code>
 
-- 🤝 Разрабатываю уютный фронтенд на React в Weetalk
+- 🤝 Разрабатываю уютный фронтенд на React.js в **Weetalk**
 
-- 🔭 Создаю сайты на чистом JS в GUSAROV GROUP
+- 🔭 Создаю сайты на чистом JavaScript в GUSAROV GROUP
 
 - 🌱 Изучаю Next.js
 
