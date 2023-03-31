@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none;">Hi there, I'm <a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" target="_blank"><code>Alex</code></a> <img
+<h1 align="center" style="border: none;">Добро пожаловать на мой<a href="https://www.linkedin.com/in/aliaksei-levashenia-17b97a180/" target="_blank"><code>GitHub</code></a> <img
 src="images/hi.gif" height="32" /></h1>
 
 <h5 align="center">
